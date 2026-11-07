@@ -410,3 +410,6 @@ MIT -- see [LICENSE](LICENSE)
 ## Author
 
 Richard Tong
+
+
+## Learning Note (C5A)This fork is part of the C5A challenge exercise. Key takeaways:- Fork workflow: upstream -> fork -> feature branch -> pull request- neoskills uses a Homebrew-style tap model for portable AI skills- Ontology layer adds a property graph over SKILL.md + ontology.yaml
